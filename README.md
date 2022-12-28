@@ -1,4 +1,4 @@
-# Laporan Proyek *Machine Learning* 2 - Alfendio Alif Faudisyah
+# Laporan Proyek *Machine Learning* - Alfendio Alif Faudisyah
 
 ## *Project Domain*
 Pada era modern ini film menjadi salah satu media hiburan yang populer di masyarakat. Produksi film yang semakin meningkat dan menghasilkan semakin banyak film yang rilis. Banyaknya film yang ada membuat masyarakat kesulitan untuk menentukan film mana yang ingin ditonton. Oleh karena itu dibuatlah sistem yang dapat memberikan rekomendasi film sesuai preferensi pengguna, sehingga pengguna dapat lebih mudah mendapatkan pilihan film-film yang mungkin disukainya.
